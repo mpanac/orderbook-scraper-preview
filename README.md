@@ -55,7 +55,7 @@ Running on Hetzner Cloud with:
     "symbol": String            # Trading pair
 }
 ```
-### Orderbook Snapshots
+### Orderbook Diffs/Partial
 ```python
 {
     "received_time": Int64,      # Processing timestamp (microseconds)
