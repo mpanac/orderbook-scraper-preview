@@ -37,6 +37,7 @@ Running on Hetzner Cloud with:
 - Handles 50+ symbols across Spot and Futures markets together
 
 ![Resource Usage](resource_usage.png)
+![Folder/File Structure](structure.png)
 
 ## Data Structure
 
