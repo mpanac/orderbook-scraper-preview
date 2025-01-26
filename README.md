@@ -1,4 +1,4 @@
-# Binance Orderbook Scraper
+# Binance Orderbook Scraper (PREVIEW ONLY!)
 
 A high-performance, production-ready orderbook data collection system for Binance Spot and Futures markets. The system captures both incremental (diff) and snapshot orderbook data via WebSocket streams and REST API endpoints.
 
